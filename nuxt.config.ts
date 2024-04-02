@@ -7,5 +7,10 @@ export default defineNuxtConfig({
     '@nuxtjs/plausible',
     // https://github.com/nuxt/devtools
     '@nuxt/devtools'
-  ]
+  ],
+  runtimeConfig: {
+    public: {
+      FORMSPREE_URL: 'https://formspree.io/f/xoqgkrpg',
+    }
+  }
 })
