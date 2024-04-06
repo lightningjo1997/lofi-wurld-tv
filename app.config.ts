@@ -28,7 +28,7 @@ export default defineAppConfig({
       message: 'Follow me on' // string that will be displayed in the footer (leave empty or delete to disable)
     },
     socials: {
-      youtube:'@LofiWurld',
+      youtube:'@LofiWurldTV',
       instagram: 'lofiwurldmusic',
       twitter: 'lofiwurld',
       // linkedin: {
