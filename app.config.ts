@@ -20,7 +20,7 @@ export default defineAppConfig({
     footer: {
       credits: {
         enabled: true, // possible value are : true | false
-        text: "❤️ Lofi Wurld TV",
+        text: "Lofi Wurld TV",
         repository: 'https://www.github.com/nuxt-themes/alpine' // our github repository
       },
       navigation: true, // possible value are : true | false
