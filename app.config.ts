@@ -21,7 +21,8 @@ export default defineAppConfig({
       credits: {
         enabled: true, // possible value are : true | false
         text: "Lofi Wurld TV",
-        repository: 'https://www.github.com/nuxt-themes/alpine' // our github repository
+        repository: '/' // our github repository
+        // repository: 'https://www.github.com/nuxt-themes/alpine' // our github repository
       },
       navigation: true, // possible value are : true | false
       alignment: 'center', // possible value are : 'none' | 'left' | 'center' | 'right'
